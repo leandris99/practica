@@ -3,4 +3,4 @@ estado del proyecto: aprendiendo jeje
 
 npm install react
 
-leandris estuvo aquii
+leandris estuvo aquii.
